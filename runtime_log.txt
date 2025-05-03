@@ -1,0 +1,326 @@
+Botas pradėjo darbą: 2025-04-23 20:35:29
+Botas baigė darbą: 2025-04-23 20:38:04
+Bendras veikimo laikas: 0:02:34.400381
+Iš to – pauzės (neaktyvumo) laikas: 0:00:17.210973
+Aktyvaus darbo laikas: 0:02:17.189408
+
+==================================================
+Sesijos pradžia: 2025-04-26 18:47:09
+Sesijos pabaiga: 2025-04-26 18:47:44
+Sesijos bendras veikimo laikas: 0:00:34.613372
+Sesijos pauzės (neaktyvumo) laikas: 0:00:17.096699
+Sesijos aktyvaus darbo laikas: 0:00:17.516673
+
+==================================================
+Sesijos pradžia: 2025-04-26 19:17:30
+Sesijos pabaiga: 2025-04-26 19:19:44
+Sesijos bendras veikimo laikas: 0:02:14.039213
+Sesijos pauzės (neaktyvumo) laikas: 0:00:13.977767
+Sesijos aktyvaus darbo laikas: 0:02:00.061446
+
+==================================================
+Sesijos pradžia: 2025-04-28 16:23:24
+Sesijos pabaiga: 2025-04-28 16:25:27
+Sesijos bendras veikimo laikas: 0:02:03.396965
+Sesijos pauzės (neaktyvumo) laikas: 0:00:00.849288
+Sesijos aktyvaus darbo laikas: 0:02:02.547677
+
+==================================================
+Sesijos pradžia: 2025-04-28 16:26:19
+Sesijos pabaiga: 2025-04-28 16:27:14
+Sesijos bendras veikimo laikas: 0:00:55.493509
+Sesijos pauzės (neaktyvumo) laikas: 0:00:17.839230
+Sesijos aktyvaus darbo laikas: 0:00:37.654279
+
+==================================================
+Sesijos pradžia: 2025-04-28 16:40:22
+Sesijos pabaiga: 2025-04-28 16:43:23
+Sesijos bendras veikimo laikas: 0:03:01.020214
+Sesijos pauzės (neaktyvumo) laikas: 0:00:19.599964
+Sesijos aktyvaus darbo laikas: 0:02:41.420250
+
+==================================================
+Sesijos pradžia: 2025-04-28 16:43:34
+Sesijos pabaiga: 2025-04-28 16:45:40
+Sesijos bendras veikimo laikas: 0:02:05.557521
+Sesijos pauzės (neaktyvumo) laikas: 0:00:16.757116
+Sesijos aktyvaus darbo laikas: 0:01:48.800405
+
+==================================================
+Sesijos pradžia: 2025-04-28 16:49:58
+Sesijos pabaiga: 2025-04-28 16:52:05
+Sesijos bendras veikimo laikas: 0:02:06.860159
+Sesijos pauzės (neaktyvumo) laikas: 0:00:17.147196
+Sesijos aktyvaus darbo laikas: 0:01:49.712963
+Paskutinis malkų skaičius: 38
+==================================================
+
+==================================================
+Sesijos pradžia: 2025-04-28 17:17:38
+Sesijos pabaiga: 2025-04-28 17:21:08
+Sesijos bendras veikimo laikas: 0:03:29.512056
+Sesijos pauzės (neaktyvumo) laikas: 0:00:00.800698
+Sesijos aktyvaus darbo laikas: 0:03:28.711358
+Paskutinis malkų skaičius: 38
+==================================================
+
+==================================================
+Sesijos pradžia: 2025-04-28 17:22:55
+Sesijos pabaiga: 2025-04-28 17:23:16
+Sesijos bendras veikimo laikas: 0:00:21.525021
+Sesijos pauzės (neaktyvumo) laikas: 0:00:00.170723
+Sesijos aktyvaus darbo laikas: 0:00:21.354298
+Paskutinis malkų skaičius: 38
+==================================================
+
+==================================================
+Sesijos pradžia: 2025-04-28 17:24:00
+Sesijos pabaiga: 2025-04-28 17:24:12
+Sesijos bendras veikimo laikas: 0:00:12.330380
+Sesijos pauzės (neaktyvumo) laikas: 0:00:00.158011
+Sesijos aktyvaus darbo laikas: 0:00:12.172369
+Paskutinis malkų skaičius: 38
+==================================================
+
+==================================================
+Sesijos pradžia: 2025-04-28 17:24:38
+Sesijos pabaiga: 2025-04-28 17:24:50
+Sesijos bendras veikimo laikas: 0:00:12.445852
+Sesijos pauzės (neaktyvumo) laikas: 0:00:00.162651
+Sesijos aktyvaus darbo laikas: 0:00:12.283201
+Paskutinis malkų skaičius: 38
+==================================================
+
+==================================================
+Sesijos pradžia: 2025-04-28 17:25:31
+Sesijos pabaiga: 2025-04-28 17:26:04
+Sesijos bendras veikimo laikas: 0:00:32.829175
+Sesijos pauzės (neaktyvumo) laikas: 0:00:19.943155
+Sesijos aktyvaus darbo laikas: 0:00:12.886020
+Paskutinis malkų skaičius: 62
+==================================================
+
+==================================================
+Sesijos pradžia: 2025-04-28 17:28:26
+Sesijos pabaiga: 2025-04-28 17:28:47
+Sesijos bendras veikimo laikas: 0:00:20.717713
+Sesijos pauzės (neaktyvumo) laikas: 0:00:00.165197
+Sesijos aktyvaus darbo laikas: 0:00:20.552516
+Paskutinis malkų skaičius: 62
+==================================================
+
+==================================================
+Sesijos pradžia: 2025-04-28 18:33:03
+Sesijos pabaiga: 2025-04-28 18:38:41
+Sesijos bendras veikimo laikas: 0:05:37.839800
+Sesijos pauzės (neaktyvumo) laikas: 0:00:43.682679
+Sesijos aktyvaus darbo laikas: 0:04:54.157121
+Paskutinis malkų skaičius: 103
+==================================================
+
+==================================================
+Sesijos pradžia: 2025-04-28 18:38:55
+Sesijos pabaiga: 2025-04-28 18:39:58
+Sesijos bendras veikimo laikas: 0:01:02.747230
+Sesijos pauzės (neaktyvumo) laikas: 0:00:00.477230
+Sesijos aktyvaus darbo laikas: 0:01:02.270000
+Paskutinis malkų skaičius: 103
+==================================================
+
+==================================================
+Sesijos pradžia: 2025-04-28 19:43:33
+Sesijos pabaiga: 2025-04-28 19:44:26
+Sesijos bendras veikimo laikas: 0:00:53.196230
+Sesijos pauzės (neaktyvumo) laikas: 0:00:00.318050
+Sesijos aktyvaus darbo laikas: 0:00:52.878180
+Paskutinis malkų skaičius: 103
+==================================================
+
+==================================================
+Sesijos pradžia: 2025-04-28 19:44:36
+Sesijos pabaiga: 2025-04-28 19:47:19
+Sesijos bendras veikimo laikas: 0:02:42.490440
+Sesijos pauzės (neaktyvumo) laikas: 0:00:12.245741
+Sesijos aktyvaus darbo laikas: 0:02:30.244699
+Paskutinis malkų skaičius: 122
+==================================================
+
+==================================================
+Sesijos pradžia: 2025-04-28 19:47:31
+Sesijos pabaiga: 2025-04-28 19:49:10
+Sesijos bendras veikimo laikas: 0:01:38.485076
+Sesijos pauzės (neaktyvumo) laikas: 0:00:00.312468
+Sesijos aktyvaus darbo laikas: 0:01:38.172608
+Paskutinis malkų skaičius: 122
+==================================================
+
+==================================================
+Sesijos pradžia: 2025-04-28 19:50:10
+Sesijos pabaiga: 2025-04-28 19:55:54
+Sesijos bendras veikimo laikas: 0:05:44.493095
+Sesijos pauzės (neaktyvumo) laikas: 0:00:34.401390
+Sesijos aktyvaus darbo laikas: 0:05:10.091705
+Paskutinis malkų skaičius: 178
+==================================================
+
+==================================================
+Sesijos pradžia: 2025-04-28 20:03:10
+Sesijos pabaiga: 2025-04-28 20:03:35
+Sesijos bendras veikimo laikas: 0:00:25.234340
+Sesijos pauzės (neaktyvumo) laikas: 0:00:06.776833
+Sesijos aktyvaus darbo laikas: 0:00:18.457507
+Paskutinis malkų skaičius: 178
+==================================================
+
+==================================================
+Sesijos pradžia: 2025-04-28 20:12:04
+Sesijos pabaiga: 2025-04-28 20:12:48
+Sesijos bendras veikimo laikas: 0:00:43.266423
+Sesijos pauzės (neaktyvumo) laikas: 0:00:01.219942
+Sesijos aktyvaus darbo laikas: 0:00:42.046481
+Paskutinis malkų skaičius: 178
+==================================================
+
+==================================================
+Sesijos pradžia: 2025-04-28 20:14:11
+Sesijos pabaiga: 2025-04-28 20:14:38
+Sesijos bendras veikimo laikas: 0:00:27.408646
+Sesijos pauzės (neaktyvumo) laikas: 0:00:02.210359
+Sesijos aktyvaus darbo laikas: 0:00:25.198287
+Paskutinis malkų skaičius: 178
+==================================================
+
+==================================================
+Sesijos pradžia: 2025-04-28 20:18:12
+Sesijos pabaiga: 2025-04-28 20:21:03
+Sesijos bendras veikimo laikas: 0:02:50.666038
+Sesijos pauzės (neaktyvumo) laikas: 0:00:14.989761
+Sesijos aktyvaus darbo laikas: 0:02:35.676277
+Paskutinis malkų skaičius: 196
+==================================================
+
+==================================================
+Sesijos pradžia: 2025-04-28 20:22:11
+Sesijos pabaiga: 2025-04-28 20:25:50
+Sesijos bendras veikimo laikas: 0:03:38.959219
+Sesijos pauzės (neaktyvumo) laikas: 0:00:53.534478
+Sesijos aktyvaus darbo laikas: 0:02:45.424741
+Paskutinis malkų skaičius: 284
+==================================================
+
+==================================================
+Sesijos pradžia: 2025-04-28 20:26:35
+Sesijos pabaiga: 2025-04-28 20:26:55
+Sesijos bendras veikimo laikas: 0:00:20.131511
+Sesijos pauzės (neaktyvumo) laikas: 0:00:13.777939
+Sesijos aktyvaus darbo laikas: 0:00:06.353572
+Paskutinis malkų skaičius: 306
+==================================================
+
+==================================================
+Sesijos pradžia: 2025-04-28 20:28:39
+Sesijos pabaiga: 2025-04-28 20:30:53
+Sesijos bendras veikimo laikas: 0:02:14.142429
+Sesijos pauzės (neaktyvumo) laikas: 0:00:11.265794
+Sesijos aktyvaus darbo laikas: 0:02:02.876635
+Paskutinis malkų skaičius: 317
+==================================================
+
+==================================================
+Sesijos pradžia: 2025-04-28 20:31:45
+Sesijos pabaiga: 2025-04-28 20:34:34
+Sesijos bendras veikimo laikas: 0:02:48.450074
+Sesijos pauzės (neaktyvumo) laikas: 0:00:12.656246
+Sesijos aktyvaus darbo laikas: 0:02:35.793828
+Paskutinis malkų skaičius: 333
+==================================================
+
+==================================================
+Sesijos pradžia: 2025-04-28 20:35:18
+Sesijos pabaiga: 2025-04-28 20:44:40
+Sesijos bendras veikimo laikas: 0:09:21.569579
+Sesijos pauzės (neaktyvumo) laikas: 0:00:46.851209
+Sesijos aktyvaus darbo laikas: 0:08:34.718370
+Paskutinis malkų skaičius: 397
+==================================================
+
+==================================================
+Sesijos pradžia: 2025-04-28 20:45:24
+Sesijos pabaiga: 2025-04-28 20:45:53
+Sesijos bendras veikimo laikas: 0:00:29.116817
+Sesijos pauzės (neaktyvumo) laikas: 0:00:00.782630
+Sesijos aktyvaus darbo laikas: 0:00:28.334187
+Paskutinis malkų skaičius: 397
+==================================================
+
+==================================================
+Sesijos pradžia: 2025-04-28 20:46:29
+Sesijos pabaiga: 2025-04-28 20:47:38
+Sesijos bendras veikimo laikas: 0:01:08.935461
+Sesijos pauzės (neaktyvumo) laikas: 0:00:38.517310
+Sesijos aktyvaus darbo laikas: 0:00:30.418151
+Paskutinis malkų skaičius: 411
+==================================================
+
+==================================================
+Sesijos pradžia: 2025-04-28 20:48:23
+Sesijos pabaiga: 2025-04-28 21:01:59
+Sesijos bendras veikimo laikas: 0:13:35.579327
+Sesijos pauzės (neaktyvumo) laikas: 0:02:50.193662
+Sesijos aktyvaus darbo laikas: 0:10:45.385665
+Paskutinis malkų skaičius: 496
+==================================================
+
+==================================================
+Sesijos pradžia: 2025-04-28 21:02:59
+Sesijos pabaiga: 2025-04-28 21:07:01
+Sesijos bendras veikimo laikas: 0:04:01.829907
+Sesijos pauzės (neaktyvumo) laikas: 0:00:36.948257
+Sesijos aktyvaus darbo laikas: 0:03:24.881650
+Paskutinis malkų skaičius: 528
+==================================================
+
+==================================================
+Sesijos pradžia: 2025-04-29 10:52:10
+Sesijos pabaiga: 2025-04-29 10:53:10
+Sesijos bendras veikimo laikas: 0:00:59.872300
+Sesijos pauzės (neaktyvumo) laikas: 0:00:02.860932
+Sesijos aktyvaus darbo laikas: 0:00:57.011368
+Paskutinis malkų skaičius: 528
+==================================================
+
+==================================================
+Sesijos pradžia: 2025-04-29 10:54:17
+Sesijos pabaiga: 2025-04-29 10:55:13
+Sesijos bendras veikimo laikas: 0:00:56.137130
+Sesijos pauzės (neaktyvumo) laikas: 0:00:02.543671
+Sesijos aktyvaus darbo laikas: 0:00:53.593459
+Paskutinis malkų skaičius: 528
+==================================================
+
+==================================================
+Sesijos pradžia: 2025-04-29 10:56:12
+Sesijos pabaiga: 2025-04-29 11:26:44
+Sesijos bendras veikimo laikas: 0:30:32.637852
+Sesijos pauzės (neaktyvumo) laikas: 0:04:25.934929
+Sesijos aktyvaus darbo laikas: 0:26:06.702923
+Paskutinis malkų skaičius: 759
+==================================================
+
+==================================================
+Sesijos pradžia: 2025-04-30 08:42:42
+Sesijos pabaiga: 2025-04-30 08:45:07
+Sesijos bendras veikimo laikas: 0:02:25.050495
+Sesijos pauzės (neaktyvumo) laikas: 0:00:48.654887
+Sesijos aktyvaus darbo laikas: 0:01:36.395608
+Paskutinis malkų skaičius: 776
+==================================================
+
+==================================================
+Sesijos pradžia: 2025-04-30 08:52:59
+Sesijos pabaiga: 2025-04-30 09:11:02
+Sesijos bendras veikimo laikas: 0:18:02.179457
+Sesijos pauzės (neaktyvumo) laikas: 0:07:39.664415
+Sesijos aktyvaus darbo laikas: 0:10:22.515042
+Paskutinis malkų skaičius: 888
+==================================================
